@@ -1,23 +1,23 @@
-# บทที่ 11 การออกแบบด้วยผลตอบสนองเชิงความถี่ — สไลด์ประกอบการบรรยาย
+# Chapter 11 Frequency Response Design — Lecture Slides
 
-รายวิชา 01068007 ระบบควบคุม · ภาควิชาวิศวกรรมการวัดและควบคุม คณะวิศวกรรมศาสตร์ สจล.
-ผู้สอน: รศ.ดร.อาจินต์ น่วมสำราญ
+01068007 Control Systems · Department of Instrumentation and Control Engineering, School of Engineering, KMITL
+Lecturer: Assoc. Prof. Dr. Arjin Numsomran
 
-เปิดนำเสนอ: หน้า GitHub Pages ของ repository นี้ (`index.html`)
+Present online: the GitHub Pages site of this repository (`index.html`).
 
-## การใช้งาน
+## Controls
 
-| ปุ่ม | ทำอะไร |
+| Key | Action |
 |---|---|
-| → / Space / Enter / คลิกด้านขวา | สไลด์ถัดไป |
-| ← / Backspace / คลิกด้านซ้าย | สไลด์ก่อนหน้า |
-| F | เต็มจอ |
-| Home / End | สไลด์แรก / สุดท้าย |
-| ปัดซ้าย–ขวา | เลื่อนสไลด์บนมือถือ/แท็บเล็ต |
+| → / Space / Enter / click right side | Next slide |
+| ← / Backspace / click left side | Previous slide |
+| F | Full screen |
+| Home / End | First / last slide |
+| Swipe left–right | Change slide on phone/tablet |
 
-ลิงก์ไปสไลด์ที่ต้องการได้ด้วยเลขหน้าท้าย URL เช่น `…/#24`
+Jump to a slide by adding its number to the URL, e.g. `…/#24`.
 
-## ไฟล์
+## Files
 
-- `slides.pdf` — สไลด์ (Beamer, XeLaTeX, 16:9, 61 หน้า) ดาวน์โหลดได้จากปุ่ม ⬇ PDF
-- `index.html` — ตัวนำเสนอ ใช้ [PDF.js](https://mozilla.github.io/pdf.js/) 3.11.174 (อยู่ใน `vendor/`, Apache-2.0)
+- `slides.pdf` — the deck (Beamer, XeLaTeX, 16:9, 61 slides); download with the ⬇ PDF button
+- `index.html` — the presenter, built on [PDF.js](https://mozilla.github.io/pdf.js/) 3.11.174 (in `vendor/`, Apache-2.0)
